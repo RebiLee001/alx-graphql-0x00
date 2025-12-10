@@ -19,13 +19,6 @@ For each character ID (1, 2, 3, 4):
   - `type`
   - `gender`
 
-- Queries to fetch episode details by ID (1, 2, 3, 4)
-- Fields included:
-  - `id`
-  - `name`
-  - `air_date`
-  - `episode`
-
 ## Files
 - `character-id-1.graphql`
 - `character-id-1-output.json`
@@ -35,13 +28,3 @@ For each character ID (1, 2, 3, 4):
 - `character-id-3-output.json`
 - `character-id-4.graphql`
 - `character-id-4-output.json`
-
-- episode-id-1.graphql  
-- episode-id-1-output.json  
-- episode-id-2.graphql  
-- episode-id-2-output.json  
-- episode-id-3.graphql  
-- episode-id-3-output.json  
-- episode-id-4.graphql  
-- episode-id-4-output.json  
-
